@@ -1,0 +1,5 @@
+##ko	KEGG Orthology
+##Method: BLAST	Options: evalue <= 1e-05; rank <= 5
+##Summary:	1117 succeed, 1666 fail
+
+#Query	KO ID|KO name|Hyperlink
